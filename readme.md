@@ -9,18 +9,19 @@ Instantly share individual tweets to Facebook
 <h2 align="center"> Installation </h2>
 <p align="center">
 
-<h4>From Chrome Webstore:</h4>
-Not published yet (Couldn't pay 5$ as my debit card is not compatible)
+<h4 align="center" >From Chrome Webstore:</h4>
+<p align="center">Not published yet (Couldn't pay 5$ as my debit card is not compatible)
 Will be added soon.
+</p>
 
-<h4> Manually </h4>
+<h4 align="center"> Manually </h4>
 
 
 <li align="center"> Download the repo and extract the zip file into a folder </li>
-<li> Open settings in Chrome </li>
-<li> Click on Extensions </li>
-<li> Click on Load unpacked entension </li>
-<li> Select the folder where you extracted the repo's content in Step 1. </li>
+<li align="center"> Open settings in Chrome </li>
+<li align="center"> Click on Extensions </li>
+<li align="center"> Click on Load unpacked entension </li>
+<li align="center"> Select the folder where you extracted the repo's content in Step 1. </li>
 
 
 
