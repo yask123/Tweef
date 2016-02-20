@@ -7,8 +7,10 @@ Instantly share individual tweets to Facebook
 </p>
 
 
-## Demo
+<h2 align="center"> Demo</h2>
+<p align="center">
 <img src="https://media.giphy.com/media/l3nIhqrUXSkNi/giphy.gif" />
+</p>
 
 
 ## The MIT License
