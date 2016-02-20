@@ -11,7 +11,7 @@ Instantly share individual tweets to Facebook
 
 <h4 align="center" >From Chrome Webstore:</h4>
 <p align="center">Not published yet (Couldn't pay 5$ as my debit card is not compatible)
-Will be added soon.
+<br>Will be added soon.
 </p>
 
 <h4 align="center"> Manually </h4>
