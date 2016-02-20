@@ -10,7 +10,7 @@ Instantly share individual tweets to Facebook
 <p align="center">
 
 <h4 align="center" >From Chrome Webstore:</h4>
-<p align="center">Not published yet (Couldn't pay 5$ as my debit card is not compatible)
+<p align="center">Not published yet (Couldn't pay 5$ as I don't have a credit card)
 <br>Will be added soon.
 </p>
 
