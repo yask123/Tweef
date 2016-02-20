@@ -1,3 +1,3 @@
 ## Tweef
 
-[http://i.imgur.com/E14P0do.png](Screenshot)
+![Screenshot](http://i.imgur.com/E14P0do.png)
