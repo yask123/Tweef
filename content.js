@@ -18,7 +18,7 @@ function start_playing_with_dom() {
 
         }
         catch (el) {
-            console.log('something is wrong');
+            console.log('Cant find a place to add button');
         }
 
     });
