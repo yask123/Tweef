@@ -16,7 +16,7 @@ Will be added soon.
 <h4> Manually </h4>
 
 
-<li> Download the repo and extract the zip file into a folder </li>
+<li align="center"> Download the repo and extract the zip file into a folder </li>
 <li> Open settings in Chrome </li>
 <li> Click on Extensions </li>
 <li> Click on Load unpacked entension </li>
