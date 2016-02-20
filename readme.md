@@ -6,6 +6,11 @@ Instantly share individual tweets to Facebook
   <img src="http://i.imgur.com/E14P0do.png" width="50%"/>
 </p>
 
+<h2 align="center"> Installation </h2>
+<p align="center">
+From Chrome Webstore:
+
+</p>
 
 <h2 align="center"> Demo</h2>
 <p align="center">
