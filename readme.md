@@ -7,6 +7,9 @@ Instantly share individual tweets to Facebook
 </p>
 
 
+## Demo
+<img src="https://media.giphy.com/media/l3nIhqrUXSkNi/giphy.gif" />
+
 
 ## The MIT License
 > Copyright (c) 2016 Yask Srivastava http://iyask.me
