@@ -8,10 +8,13 @@ Instantly share individual tweets to Facebook
 
 <h2 align="center"> Installation </h2>
 <p align="center">
+
 * From Chrome Webstore:
 Not published yet (Couldn't pay 5$ as my debit card is not compatible)
 
+
 * Manually
+
 
 1. Download the repo and extract the zip file into a folder
 2. Open settings in Chrome
