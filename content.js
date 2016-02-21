@@ -1,7 +1,6 @@
 /**
  * Created by yasksrivastava on 20/02/16.
  */
-console.log('Running here');
 function start_playing_with_dom() {
     var test = $('.dropdown-menu ul');
     test.each(function (i, el) {
