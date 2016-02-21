@@ -6,7 +6,8 @@ function start_playing_with_dom() {
     test.each(function (i, el) {
         try {
             if (el.children.length === 8 || el.children.length === 6) {
-                var new_node = $(el).appendTo('<li> <button id="link" type="button" class="dropdown-link fb_tweet">Share on Facebook</button> </li>');
+                var new_node = $(el).prepend('<li> <button id="link" type="button" class="dropdown-link fb_tweet">Share on Facebook</button> </li>');
+                new_node = new_node.find('.fb_tweet');
                 new_node.click(function () {
                     var content_node = $(this).parents().eq(7).find('.tweet-timestamp').attr("href");
                     fb_share_url = 'https://twitter.com' + content_node;
