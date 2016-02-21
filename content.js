@@ -1,11 +1,14 @@
 /**
  * Created by yasksrivastava on 20/02/16.
  */
+console.log('Running here');
 function start_playing_with_dom() {
     var test = $('.dropdown-menu ul');
     test.each(function (i, el) {
         try {
-            if (el.children.length === 8) {
+            console.log(el);
+            console.log(el.children.length);
+            if (el.children.length === 8 || el.children.length === 6) {
                 var new_node = $(el).prepend('<li> <button id="link" type="button" class="dropdown-link fb_tweet">Share on Facebook</button> </li>');
                 new_node.click(function () {
                     var content_node = $(this).parents().eq(7).find('.tweet-timestamp').attr("href");
