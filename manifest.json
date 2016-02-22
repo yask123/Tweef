@@ -1,6 +1,6 @@
 {
   "name": "Tweef",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "content_scripts": [
     {
@@ -10,5 +10,8 @@
       ],
       "js": ["jquery.js","content.js"]
     }
-  ]
+  ],
+  "icons": {
+    "128": "icon128.png"
+  }
 }
