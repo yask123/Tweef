@@ -10,7 +10,7 @@ Instantly share individual tweets to Facebook
 <p align="center">
 
 <h4 align="center" >From Chrome Webstore:</h4>
-<p align="center"> <a href="https://chrome.google.com/webstore/detail/tweef/hijdhhaolhnjgjbjgeeecpdhphbpkfbj">Install Now </a>
+<p align="center"> <a href="https://chrome.google.com/webstore/detail/tweef/hijdhhaolhnjgjbjgeeecpdhphbpkfbj"><img src="https://raw.githubusercontent.com/algolia/github-awesome-autocomplete/master/store/chrome-extension.png"></a>
 <br>
 </p>
 
